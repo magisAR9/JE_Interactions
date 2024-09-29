@@ -41,6 +41,8 @@ Axes de questionnements :
  
 # Informations pratiques ℹ️
 
+## ⚠️Pensez à prendre une pièce d'identité, l'accès au Campus Descartes est contrôlé ⚠️
+
 ## Lieu
 
 La journée d'étude se tiendra toute la journée dans le bâtiment Bienvenüe du Campus Descartes, aile B, RDC, salle B015.
