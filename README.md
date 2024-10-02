@@ -21,7 +21,7 @@ Axes de questionnements :
 - ## Matinée :
 	- *9h00 - 9h20 : Accueil*
 	- 9h20 - 9h30 : Introduction
-	- 9h30 - 10h30 : [Sara Fabrikant](https://visualizegeo.info/website/), Professeure à l'Université de Zürich, [Geographic Information Visualization and Analysis](https://www.geo.uzh.ch/en/units/giva.html) - Titre à venir
+	- 9h30 - 10h30 : [Sara Fabrikant](https://visualizegeo.info/website/), Professeure à l'Université de Zürich, [Geographic Information Visualization and Analysis](https://www.geo.uzh.ch/en/units/giva.html) - *Re-imagining interfaces to and interactions with geographic information*
 	- 10h30 - 11h30 : [Aurélien Tabard](https://www.tabard.fr/), Maître de conférences à l'Université Claude Bernard Lyon 1, [UMR LIRIS](https://liris.cnrs.fr/) - Concevoir une application de guidage pour les transports en commun à partir des pratiques
   - *11h30 - 11h50 : ☕ Pause café ☕*
   - 11h50 - 12h50 : [Maria-Jesus Lobo](https://www.umr-lastig.fr/maria-jesus-lobo/), Chargée de Recherche à l'Institut national de l'information géographique et forestière (IGN), [équipe GEOVIS du LASTIG](https://www.umr-lastig.fr/geovis/) - Exploration des transitions interactives entre vues cartographiques
